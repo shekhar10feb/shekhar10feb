@@ -6,7 +6,7 @@
 
 ## 💬 Ask me about Web Development.
 
-## 📫 You can me here: www.twitter.com/MontygSharma
+## 📫 You can reach me here: www.twitter.com/MontygSharma
 
 ## ⚡ Fun fact: I'm a writer too.
 
