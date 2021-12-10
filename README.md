@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Shekhar Ranjan.
+
+## 🔭 I'm currently working on a **JavaScript Project**.
+
+## 🌱 I'm currently learning **ReactJS**.
+
+## 💬 Ask me about Web Development.
+
+## 📫 You can me here: www.twitter.com/MontygSharma
+
+## ⚡ Fun fact: I'm a writer too.
 
 <!--
 **shekhar10feb/shekhar10feb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
