@@ -12,7 +12,7 @@
 
 - 💬 [Quote-Generator-App](https://shekhar10feb.github.io/Quote-Generator-App/)
 - ®️ [Registration-Form](https://shekhar10feb.github.io/Registration-Form/)
-- 🤖 [Shravika-Robot](https://shekhar10feb.github.io/Project_Shravika/)
+- 🤖 [Responsive Parallax Website](https://shekhar10feb.github.io/Responsive-Parallax-Website/)
 - 😃 [Homepage](https://github.com/shekhar10feb/KetSwash-Homepage)
 - 🧙‍♂️ [A boy showing magic](https://github.com/shekhar10feb/Jai_Mata_Di_Global)
 - 💡 [Bulb On/Off](https://github.com/shekhar10feb/Bulb_On_Off)
