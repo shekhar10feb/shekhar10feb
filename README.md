@@ -7,7 +7,7 @@ I'm a frontend web developer, loves to make CSS, JavaScript programs.
 
 - 💬 Ask me about Web Development.
 
-- 📫 You can reach me here: www.twitter.com/MontygSharma
+- 📫 You can reach me here: [@MontygSharma](www.twitter.com/MontygSharma)
 
 - ⚡ Fun fact: I'm a writer too.
 
