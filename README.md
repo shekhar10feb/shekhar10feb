@@ -1,14 +1,11 @@
-# Hi there 👋 I'm Shekhar Ranjan 
+# Hey 👋, I'm Shekhar Ranjan 
 
 I'm a frontend web developer, loves to make CSS, JavaScript programs.
 
 
 - 🔭 I'm currently working on a **JavaScript Project**.
-
 - 💬 Ask me about Web Development.
-
-- 📫 You can reach me here: [@MontygSharma](www.twitter.com/MontygSharma)
-
+- 📫 You can reach me here: Twitter- [@MontygSharma](www.twitter.com/MontygSharma)
 - ⚡ Fun fact: I'm a writer too.
 
 
