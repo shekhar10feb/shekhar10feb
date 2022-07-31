@@ -23,6 +23,7 @@ I'm a frontend web developer, loves to make CSS, JavaScript programs.
 ## Let's Connect
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&www.twitter.com/MontygSharma)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **shekhar10feb/shekhar10feb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
