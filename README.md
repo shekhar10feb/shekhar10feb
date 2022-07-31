@@ -3,10 +3,10 @@
 
 I'm a frontend web developer, loves to make CSS, JavaScript programs.
 
-- I love to code and make projects.
-- Try to find the solution of a problem.
-- I want to collaborate on an Open Source Project.
-- Always ready to learn new things.
+- 💕 I love to code and make projects.
+- 👀 Try to find the solution of a problem.
+- ✨ I want to collaborate on an Open Source Project.
+- 💡  Always ready to learn new things.
 - 🔭 I'm currently working on a **JavaScript Project**.
 - 💬 Ask me about Web Development.
 - 📫 You can reach me here: Twitter- [@MontygSharma](www.twitter.com/MontygSharma)
