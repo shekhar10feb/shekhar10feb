@@ -3,11 +3,14 @@
 
 I'm a frontend web developer, loves to make CSS, JavaScript programs.
 
-
+- I love to code and make projects.
+- Try to find the solution of a problem.
+- I want to collaborate on an Open Source Project.
+- Always ready to learn new things.
 - 🔭 I'm currently working on a **JavaScript Project**.
 - 💬 Ask me about Web Development.
 - 📫 You can reach me here: Twitter- [@MontygSharma](www.twitter.com/MontygSharma)
-- ⚡ Fun fact: I'm a writer too.
+- ⚡ Fun fact: Love to read books and I'm a writer too.
 
 
 ## Check out some of my work:
@@ -16,6 +19,10 @@ I'm a frontend web developer, loves to make CSS, JavaScript programs.
 - 💬 [Quote-Generator-App](https://shekhar10feb.github.io/Quote-Generator-App/)
 - ®️ [Registration-Form](https://shekhar10feb.github.io/Registration-Form/)
 - 💡 [Bulb On/Off](https://github.com/shekhar10feb/Bulb_On_Off)
+
+## Let's Connect
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--
 **shekhar10feb/shekhar10feb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
